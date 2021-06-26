@@ -1,2 +1,11 @@
 # rock-paper-scissors
-The Odin Project Rock-Paper-Scissors game
+The Odin Project: <a href="https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors" target="_blank">Rock-Paper-Scissors</a> game.
+
+Live Code: <a href="" target="_blank">here</a>
+
+Technologies & Websites used:
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+</ul>
