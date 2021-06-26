@@ -1,7 +1,7 @@
 # rock-paper-scissors
 The Odin Project: <a href="https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors" target="_blank">Rock-Paper-Scissors</a> game.
 
-Live Code: <a href="" target="_blank">here</a>
+Live Code: <a href="https://jasonh290.github.io/rock-paper-scissors/" target="_blank">here</a>
 
 Technologies & Websites used:
 <ul>
